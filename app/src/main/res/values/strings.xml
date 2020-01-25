@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">HW2.2.1.SharedPreferences</string>
+    <string name="btn_save">Сохранить</string>
+</resources>
